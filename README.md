@@ -1,0 +1,2 @@
+# New_Kindle_App_for_Windows10
+将新版Kindle App移植为可供Windows 10安装的版本
